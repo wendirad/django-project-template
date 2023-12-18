@@ -1,7 +1,7 @@
 Django==4.2.7
 django-filter==23.5
 dj-database-url==2.0.0
-Markdown==3.4.3
+Markdown==3.5.1
 python-decouple==3.8
 django-debug-toolbar==4.2.0
 Werkzeug==3.0.1
